@@ -1,3 +1,5 @@
+# MACD on a list of tickers, and check the results
+
 # 1  Import data
 ```
 tickers =\

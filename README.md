@@ -1,4 +1,8 @@
 # MACD on a list of tickers, and check the results
+This is a very basic script demonstrating:
+1. how to get some data from yahoo
+2. generate signal using technical indicator
+3. backtest
 
 # 1  Import data
 ```
